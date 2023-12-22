@@ -1,0 +1,4 @@
+#V2
+info for database
+use ns test db test
+info for database
